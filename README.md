@@ -1,2 +1,2 @@
 # store
-making a simple online shopping website with PHP
+making a simple book store website with PHP
